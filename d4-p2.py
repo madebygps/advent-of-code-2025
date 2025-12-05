@@ -6,6 +6,7 @@ with open("giftpapergrid.txt") as f:
 total_removed = 0
 
 while True:
+    
     removed_this_pass = 0
     rolls_to_remove = []
 
