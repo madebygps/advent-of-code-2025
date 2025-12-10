@@ -1,4 +1,4 @@
-with open('test-beams.txt') as f:
+with open('../inputs/test-beams.txt') as f:
     grid = [line.rstrip() for line in f]
 
 

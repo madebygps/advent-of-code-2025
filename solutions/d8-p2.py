@@ -1,6 +1,6 @@
 import math
 
-with open('boxes.txt') as f:
+with open('../inputs/boxes.txt') as f:
     boxes = [tuple(map(int, line.split(','))) for line in f]
 
 pairs = []

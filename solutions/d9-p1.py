@@ -1,6 +1,6 @@
 
 
-with open('tiles.txt') as f:
+with open('../inputs/tiles.txt') as f:
     tiles = f.readlines()
 
 max_area = 0

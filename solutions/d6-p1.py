@@ -1,4 +1,4 @@
-with open('worksheet.txt') as f:
+with open('../inputs/worksheet.txt') as f:
     grid = [list(line.strip().split()) for line in f]
 
 transposed = [list(row) for row in zip(*grid)]

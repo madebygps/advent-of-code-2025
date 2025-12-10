@@ -1,6 +1,6 @@
 import bisect
 
-with open('tiles.txt') as f:
+with open('../inputs/tiles.txt') as f:
     tiles = [tuple(map(int, line.strip().split(','))) for line in f.readlines()]
 
 # Build edges as horizontal/vertical segments

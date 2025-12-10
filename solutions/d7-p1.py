@@ -1,4 +1,4 @@
-with open('beams.txt') as f:
+with open('../inputs/beams.txt') as f:
     grid = [line.rstrip() for line in f]
 
 beams = set()

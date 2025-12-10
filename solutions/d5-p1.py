@@ -1,4 +1,4 @@
-with open('food-db.txt') as f:
+with open('../inputs/food-db.txt') as f:
     sections = f.read().split('\n\n')
 
 food_ranges = [

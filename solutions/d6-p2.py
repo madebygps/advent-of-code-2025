@@ -1,4 +1,4 @@
-with open('worksheet.txt') as f:
+with open('../inputs/worksheet.txt') as f:
     grid = [line.rstrip() for line in f] 
 
 
