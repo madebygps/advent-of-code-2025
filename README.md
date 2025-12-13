@@ -14,3 +14,4 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025).
 | 08  | [Beam Grid](https://adventofcode.com/2025/day/8) | [Part 1](d8-p1.py), [Part 2](d8-p2.py)
 | 09  | [Movie Theater](https://adventofcode.com/2025/day/9) | [Part 1](d9-p1.py)
 | 10  | [Factory](https://adventofcode.com/2025/day/10) | [Part 1](d10-p1.py), [Part 2](d10-p2.py)
+| 11  | [Reactor](https://adventofcode.com/2025/day/11) | [Part 1](d11-p1.py), [Part 2](d11-p2.py)
